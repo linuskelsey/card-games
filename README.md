@@ -1,2 +1,2 @@
 # card-games
-A collection of card games, implemented using OOP.
+A collection of card games, implemented using OOP. Very much a WIP.
